@@ -11,7 +11,7 @@
 ## :pushpin: Contact
 - 이메일: moonhyun94@kakao.com
 - 블로그: 
-- 깃헙: https://github.com/Orberon/JOJAEHYUN/edit/main
+- 깃헙: https://github.com/Orberon/JOJAEHYUN/blob/main/README.md
 
 </br>
 
