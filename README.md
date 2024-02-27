@@ -1,17 +1,17 @@
-# 정형 포트폴리오
+# 재현 포트폴리오
 >캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
 2
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+나는 존잘이다
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
+- 이메일: moonhyun94@kakao.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/Orberon/JOJAEHYUN/edit/main
 
 </br>
 
