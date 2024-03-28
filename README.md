@@ -47,6 +47,7 @@
 >  
 >기술 스택:  
 >Java/ Python/ oracle database/ Apache Tomcat9.0
+>JavaScript/ css/ Eclipse/ Visual Studio Code/ Jupyter NoteBook
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git) 참고
 
