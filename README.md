@@ -59,5 +59,5 @@
 >기술 스택:  
 >Java / MySQL / Python / Html / CSS / Ajax
 >  
->[프로젝트 상세 설명]((https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo)) 참고
+>[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo) 참고
 
