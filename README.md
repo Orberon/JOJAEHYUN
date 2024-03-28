@@ -58,7 +58,8 @@
 >개발 기간: 2024.3.07 ~ 2024.3.29 
 >  
 >기술 스택:  
->Java / MySQL / Python / Html / CSS / Ajax
+>Java 17 /Jsp/Servlet/ Maven/ mysql/ Gson Library /MyBatis
+Lombok/ Python/ Apache Tomcat 9.0 /google trend API/ JS/ css/ html
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo) 참고
 
