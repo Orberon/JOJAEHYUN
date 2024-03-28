@@ -46,7 +46,7 @@
 >개발 기간: 2023.10.01 ~ 2023.11.05  
 >  
 >기술 스택:  
->Java / MySQL / Python / Html / CSS / Ajax
+>Java/ Python/ oracle database/ Apache Tomcat9.0
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git) 참고
 
