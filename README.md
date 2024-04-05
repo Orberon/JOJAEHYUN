@@ -37,6 +37,10 @@
 >![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/47c173d3-b46c-4664-8200-b7d3a6d10391)
 >구현 내용:
 >![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/bd8b9c84-a3aa-4676-b800-73668e59a034)
+>![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/25018dbe-cb90-40b0-8599-a7887e5d6639)
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/e1a2f49a-a1ca-4087-8a73-89f4cb245315)
+>트러블 슈팅:
+>![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/fd7b4fcd-956a-4299-83cd-136fd1eff13e)
 
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git) 참고
 
