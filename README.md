@@ -17,13 +17,11 @@
 
 </br>
 
-<details>
 ## :pushpin: Projects
-<summary> ### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git)</summary>
+### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git)
 
 >나의 프론트엔드 포트폴리오 (팀 프로젝트)  
 >개발 기간: 2023.10.01 ~ 2023.11.05  
-<div markdown="1">
 >기술 스택:  
 >Java/ Python/ oracle database/ Apache Tomcat9.0
 >JavaScript/ css/ Eclipse/ Visual Studio Code/ Jupyter NoteBook
@@ -46,8 +44,6 @@
 ## 느낀점 :
 > 이번 프로젝트를 통해 협업의 중요성을 알았고 처음해보는 프로젝트라 시간상의 아쉬움이 컸었다는점 그래도 함께 결과를 만들어내서 뿌듯했던 프로젝트! <br>
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git) 참고
-</div>
-</details>
 ---
 ## :pushpin: Projects
 ### 2. [포트폴리오](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git)
