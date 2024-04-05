@@ -41,7 +41,7 @@
 ![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/e1a2f49a-a1ca-4087-8a73-89f4cb245315)
 >트러블 슈팅:
 >![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/fd7b4fcd-956a-4299-83cd-136fd1eff13e)
-- ##느낀점##:
+## 느낀점 ##:
 > 이번 프로젝트를 통해 협업의 중요성을 알았고 처음해보는 프로젝트라 시간상의 아쉬움이 컸었다는점 그래도 함께 결과를 만들어내서 뿌듯했던 프로젝트!
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git) 참고
 
