@@ -25,7 +25,19 @@
 >기술 스택:  
 >Java/ Python/ oracle database/ Apache Tomcat9.0
 >JavaScript/ css/ Eclipse/ Visual Studio Code/ Jupyter NoteBook
->  
+>![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/be285127-f05e-44c2-b9f3-965fe077613a)
+>제안 배경:
+>![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/f3249ff9-136d-40ff-8af2-777a5be2e440)
+>![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/66e3fc83-a650-4aec-af7a-39e433d801d5)
+>차별성:
+>![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/bd49d204-7be6-4dda-ace9-fb2ca4d9f8be)
+>개발 도구와 서비스 흐름도:
+>![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/19a00243-22ce-4a1b-9a1b-b08606ed1f40)
+>![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/b0fc90de-8cca-4835-b4cf-e9f55f0b2aa9)
+>![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/47c173d3-b46c-4664-8200-b7d3a6d10391)
+>구현 내용:
+>![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/bd8b9c84-a3aa-4676-b800-73668e59a034)
+
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git) 참고
 
 ---
