@@ -12,14 +12,12 @@
 
 ## :pushpin: Contact
 - 이메일: moonhyun94@kakao.com
-- 블로그: 
 - 깃헙: https://github.com/Orberon/JOJAEHYUN/blob/main/README.md
 
 </br>
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git)
-
 >나의 프론트엔드 포트폴리오 (팀 프로젝트)  
 >개발 기간: 2023.10.01 ~ 2023.11.05  
 >기술 스택:  
@@ -42,7 +40,7 @@
 >트러블 슈팅:
 >![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/fd7b4fcd-956a-4299-83cd-136fd1eff13e)
 ## 느낀점 :
-> 이번 프로젝트를 통해 협업의 중요성을 알았고 처음해보는 프로젝트라 시간상의 아쉬움이 컸었다는점 그래도 함께 결과를 만들어내서 뿌듯했던 프로젝트! <br>
+> 이번 프로젝트를 통해 협업의 중요성을 알았고 처음해보는 프로젝트라 시간상의 아쉬움이 컸었다는점 그래도 함께 결과를 만들어내서 뿌듯했던 프로젝트<br>
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git) 참고
 ---
 ## :pushpin: Projects
@@ -53,6 +51,23 @@
 >기술 스택:  
 >Java 17 /Jsp/Servlet/ Maven/ mysql/ Gson Library /MyBatis
 Lombok/ Python/ Apache Tomcat 9.0 /google trend API/ JS/ css/ html
->  
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/f5595e1a-c709-4357-bb1f-c48f5eb4d14e)
+>제안 배경:
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/bae5a3bc-b746-455f-b762-01c22a03f300)
+>차별성:
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/ed17ffa9-6cc4-47d7-b2af-5b26fc7ec587)
+>개발 도구와 서비스 흐름도:
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/078d91f6-2573-4310-aaf9-d22af01b7261)
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/850c292c-4142-47f1-8f49-21a2a26e7577)
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/fb3669f6-ada4-4339-977c-cdd139acd013)
+>구현 내용:
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/dabd9fc2-d76e-418d-904d-4097d1e41b6f)
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/5bde113d-0a0b-4bcd-ba19-3da31583778a)
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/ec0c1278-90ce-4519-935c-1f141cf62b47)
+>트러블 슈팅:
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/925fbb7c-ada9-4135-8a7b-2c6fdd66e3d3)
+![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/92eb01ac-5532-4cc8-b2ff-138fc55c14e6)
+## 느낀점 :
+> 이번 프로젝트를 통해 배우지 않은 기술이더라도 학습해서 활용함으로써 프로젝트 완성에 기여할 수 있어서 만족스러웠던 경험<br>
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo) 참고
 
