@@ -40,7 +40,7 @@
 >트러블 슈팅:
 >![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/fd7b4fcd-956a-4299-83cd-136fd1eff13e)
 ## 느낀점 :
-> 이번 프로젝트를 통해 협업의 중요성을 알았고 처음해보는 프로젝트라 시간상의 아쉬움이 컸었다는점 그래도 함께 결과를 만들어내서 뿌듯했던 프로젝트<br>
+> 언어와 기술에 대한 이해를 높이고, 팀원들과의 협업 능력을 향상시킬 수 있었습니다. 이 프로젝트는 내 집 마련에 대한 꿈을 실현하고자 하는 사용자들에게 가치 있는 정보를 제공하는데 기여한 것으로 뿌듯하게 생각합니다.<br>
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git) 참고
 ---
 ## :pushpin: Projects
@@ -68,6 +68,6 @@ Lombok/ Python/ Apache Tomcat 9.0 /google trend API/ JS/ css/ html
 ![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/925fbb7c-ada9-4135-8a7b-2c6fdd66e3d3)
 ![image](https://github.com/Orberon/JOJAEHYUN/assets/152379672/92eb01ac-5532-4cc8-b2ff-138fc55c14e6)
 ## 느낀점 :
-> 이번 프로젝트를 통해 배우지 않은 기술이더라도 학습해서 활용함으로써 프로젝트 완성에 기여할 수 있어서 만족스러웠던 경험<br>
+> 저는 이번 프로젝트를 통해 새로운 기술을 습득하고 적용함으로써 기업의 데이터를 분석하고 크롤링하여 기업의 의사결정에 도움이 되는 정보를 시각적으로 제시하는 서비스를 개발하는 데 기여한 것을 뿌듯하게 생각합니다.<br>
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo) 참고
 
